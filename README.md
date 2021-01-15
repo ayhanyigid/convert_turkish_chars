@@ -54,6 +54,5 @@ $decode_word = function($string) {
                 '&uuml;' => 'ü',
             ));
         };
-        
-        
+                
         echo $decode_word('Bej Åžerit DetaylÄ± Telefon');
